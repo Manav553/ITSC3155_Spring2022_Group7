@@ -1,0 +1,25 @@
+Design Sprint Day 1
+
+User Stories
+As a high school graduate I want to find information on potential careers and fields that I’m interested in.
+As an academic advisor I want to find the best opportunities for my students so that they can succeed.
+As a college student I want to find relevant internships for experience before I begin to apply for jobs in the field
+
+Scenarios
+Scenario 1: A recent high school graduate is using the site to find information on potential careers and fields that they are interested in.
+Student loads into the website
+Student registers an account
+Student searches for info on careers and fields that interest them
+Scenario 2: An academic advisor begins to use the site and recommend it to their students and sign them up for the website.
+Advisor signs up and has their students sign up as well
+The advisor creates a group with their students
+Students are able to freely use the site like anyone else, but the advisor can also give them recommendations and see their applications/interests.
+Scenario 3: A college student signs up and wants to find an internship before their college career ends and they have to enter the job market.
+Student registers for the site
+Student searches for internship opportunities from employers on the site.
+Student picks the internships they want and send in applications to the employers 
+Feature list
+A group feature available to academic advisors so that they can use the site to find opportunities for their students and send it to them within the site.
+A way for students to attach a resume to their profiles and applications they send to employers.
+Combining the last two features, a way for advisors to see their student’s resume so they can give suggestions
+Filters and search algorithm for students to sort through the different potential employers
